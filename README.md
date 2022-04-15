@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# KanbanBoard
+# Capstone 2 PokeAPI
 
 > This web displays characters from the Pokemon universe through the [Pokeapi](https://pokeapi.co/) and allows to post likes, comments and reservations thanks to the [Involvement API](https://www.notion.so/microverse/Involvement-API-869e60b5ad104603aa6db59e08150270), which also allow the page to show a counter of these posts. The project was built using SCSS, JS, HTML and Webpack and tested through Jest.
 
@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-For a live demo of the project [click here](https://fed1k.github.io/KanbanBoard/).
+For a live demo of the project [click here](https://fed1k.github.io/Capstone-2-PokeAPI/).
 
 ## Presentation
 
@@ -30,10 +30,10 @@ To get a local copy of the project, follow these steps:
 1. Open the terminal and navigate to the folder where you would like to put these files.
 2. Type the following commands into the terminal: 
  ```
- git clone https://github.com/fed1k/KanbanBoard
+ git clone https://github.com/fed1k/Capstone-2-PokeAPI
  ```
  ```
- cd KanbanBoard
+ cd Capstone-2-PokeAPI
  ```
 3. Install webpack
   - Required to run 
@@ -83,7 +83,7 @@ npm start
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/fed1k/KanbanBoard/issues).
+Feel free to check the [issues page](https://github.com/fed1k/Capstone-2-PokeAPI/issues).
 ## Show your support
 
 Give a ⭐️ if you like this project!
