@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-For a live demo of the project [click here](https://fed1k.github.io/Capstone-2-PokeAPI/).
+For a live demo of the project [click here](https://fed1k.github.io/PokeApi/).
 
 ## Presentation
 

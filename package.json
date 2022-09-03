@@ -1,5 +1,5 @@
 {
-  "name": "capstone-2-pokeapi",
+  "name": "PokeApi",
   "version": "1.0.0",
   "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "main": "webpack.config.js",
@@ -10,7 +10,7 @@
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.26.0",
-    "hint": "^6.0.5",
+    "hint": "^6.1.11",
     "html-webpack-plugin": "^5.5.0",
     "jest": "^27.5.1",
     "sass": "^1.50.0",
@@ -52,5 +52,5 @@
   "bugs": {
     "url": "https://github.com/fed1k/Capstone-2-PokeAPI/issues"
   },
-  "homepage": "https://github.com/fed1k/Capstone-2-PokeAPI#readme"
+  "homepage": "https://github.com/fed1k/PokeApi#readme"
 }
